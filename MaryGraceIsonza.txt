@@ -1,0 +1,3 @@
+Tanong: Kung ikaw ay naging matagumap na Software Developer sa Pilipinas, ano ang iyong gagawing application para makatulong sa ating mga nagtatrabaho sa Agrikultura tulad ng pagsasaka, pag-aalaga ng mga hayop at ibat iba pa.
+
+Sagot: Kung ako ay isnag Software Developer, gusto kong gumawa ng isang system na magcocontrol ng temperature, humidity and pressure sa loob ng isang green house to detect these factors and automatically alert farmers kung ano ang current situation sa loob and that they can advise kung anong next na gagawin para maprotect ang growth ng plants.
